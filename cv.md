@@ -3,11 +3,11 @@
 ![image](https://hhcdn.ru/photo/533392268.jpeg?t=1616010737&h=X8EqJsSaozHUovABbEjw_g)
 
 * * *
-#####Контакты
+##### Контакты
 * +375 (29) 546-04-99 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Viber_logo.svg/30px-Viber_logo.svg.png) ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/15px-Telegram_2019_Logo.svg.png)
 * trimag7@gmail.com
 
-#####Способы связи
+##### Способы связи
 [![Facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/30px-Facebook_Logo_%282019%29.png)](https://www.facebook.com/profile.php?id=100003998319570)
 [![Vk](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VK_Compact_Logo.svg/30px-VK_Compact_Logo.svg.png)](https://vk.com/trimag)
 [![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/GitHub_Logo.png/50px-GitHub_Logo.png)](https://github.com/Trimag7/itstep.git)
@@ -40,7 +40,7 @@
 ++Должность: Инженер ПТО, исполнитель монтажных работ.++
 *Расчет стоимости рекламных конструкций (вывески различного формата, фотозоны и т.д.). Подготовка чертежей для изготовления и согласования рекламы. Контроль реализации собственных конструкторских решений на этапах производства. Разработка и доработка изделий для технологического процесса, внесение корректировок при внесении изменений в проект.*
 
-#####Ключевые навыки
+##### Ключевые навыки
 Работа Autocad, Revit, Sketch up, V-Ray . Отлично владею следующими программными продуктами:
 * Blender 3D
 * Inkscape
@@ -54,11 +54,11 @@
  * MS Excel
  * VBA
  
-#####Образование
+##### Образование
 | Год|Образование |
 |--------|--------|
 |   2017     |   **Белорусско-российский университет**,   Строительный факультет//заочно, Промышленное и гражданское строительство,  ++Магистр технических наук++    |
 |2016|**Белорусско-российский университет** Строительный, Промышленное и гражданское строительство, ++Инженер строитель++|
 |   2013     |  **Архитектурно-Строительный колледж** Строительный, Промышленное и гражданское строительство, ++Техник-строитель++    |
-#####Английский язык 
+##### Английский язык 
 Мой уровень английского языка был установлен как ++A1++ (Базовый) EPAM TRAINING CENTER.
