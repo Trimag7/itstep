@@ -1,0 +1,45 @@
+.menu-item{
+    list-style-type: none;
+}
+.menu-item a{
+    font-size: 24px;
+    font-style: normal;
+    color: #303337;
+}
+body{
+    background: #f8f8f8;
+}
+.name{
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    background: #eaeaea;
+}
+.description{
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+}
+.description2{
+    color: #484343;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    line-height: 24px;
+}
+.characteristic{
+    font-family: Verdana;
+    list-style-type: disclosure-closed;
+}
+.myinput{
+    width: 500px;
+    height: 20px;
+    color: #8f54e7;
+    font-size: 16px;
+    font-family: "Arial Narrow";
+}
+.foto{
+    border: 3px solid #8a8989;
+    color: black;
+}
