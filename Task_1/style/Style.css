@@ -1,45 +1,76 @@
-.menu-item{
+.menu-item {
     list-style-type: none;
 }
-.menu-item a{
+
+.menu-item a {
     font-size: 24px;
     font-style: normal;
     color: #303337;
 }
-body{
+
+.menu-item a:hover {
+    color: #5452a4;
+}
+
+body {
     background: #f8f8f8;
 }
-.name{
+
+.name {
     color: black;
     font-size: 18px;
     font-weight: 400;
     background: #eaeaea;
 }
-.description{
+
+.description {
     color: #707070;
     font-size: 14px;
     font-style: italic;
     line-height: 16px;
 }
-.description2{
+
+.description2 {
     color: #484343;
     font-size: 16px;
     font-weight: 400;
     text-align: left;
     line-height: 24px;
 }
-.characteristic{
+
+.characteristic {
     font-family: Verdana;
     list-style-type: disclosure-closed;
 }
-.myinput{
+.titles{
+    list-style-type: none;
+}
+.myinput {
     width: 500px;
     height: 20px;
     color: #8f54e7;
     font-size: 16px;
     font-family: "Arial Narrow";
 }
-.foto{
+
+.myinput:focus{
+    text-transform: capitalize;
+    color: #f8f8f8;
+    background-color: #5452a4;
+}
+
+.foto {
     border: 3px solid #8a8989;
     color: black;
+}
+table{
+    border: 1px solid #000;
+}
+td{
+    text-align: left;
+    vertical-align: center;
+}
+th{
+    text-align: left;
+    vertical-align: center;
 }
