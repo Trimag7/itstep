@@ -32,6 +32,7 @@ body {
     background-color: #5452a5;
 }
 .logo{
+    margin: 0px 0px 0px 20px;
     display: flex;
     background-image: url(../image/00440154.jpg);
     background-repeat: no-repeat;
@@ -42,7 +43,6 @@ body {
 }.menu{
     padding: 20px;
     box-sizing: border-box;
-    border: 1px solid red;
     display: flex;
     height: 100%;
     align-items: flex-end;
@@ -93,10 +93,27 @@ body {
     color: #f8f8f8;
     background-color: #5452a4;
 }
+.tovar{
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+.product{
+    margin: 10px 0px 0px 10px;
+    height: 330px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    flex-direction: column;
 
+}
 .foto {
-    border: 3px solid #8a8989;
-    color: black;
+    margin: 0px;
+    padding: 0px;
+    width: 530px;
 }
 table{
     border: 1px solid #000;
@@ -108,4 +125,45 @@ td{
 th{
     text-align: left;
     vertical-align: center;
+}
+.footer{
+    height: 50px;
+    color: #f8f8f8;
+    background-color: #5452a4;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.footer p{
+    margin: 20px 20px 0px 0px;
+}
+.knopka {
+    color: #fff;
+    text-decoration: none;
+    user-select: none;
+    background: rgb(194, 39, 107);
+    padding: .7em 1.5em;
+    outline: none;
+}
+.knopka:hover {
+    background: rgb(195, 80, 134); }
+.knopka:active {
+    background: rgb(152,15,0); }
+}
+.catalog{
+    padding: 20px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: flex;
+
+}
+.doma{
+    margin: 10px;
+    height: 250px;
+    width: 275px;
+    border: 1px solid #000000;
+}
+.fotodoma{
+    width: 100%;
 }
