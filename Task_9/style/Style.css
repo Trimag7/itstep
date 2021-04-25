@@ -17,18 +17,25 @@ html,body {
 
 ul {
     list-style-type: none;
+    padding-left: 0;
 }
 
 label {
     display: block;
 }
 
+
+
+
 .clearfix::after {
     content: "";
     display: table;
     clear: both;
 }
-
+.container{
+    width: 940px;
+    margin: 0 auto;
+}
 .main {
     width: 940px;
     margin: 0 auto;
@@ -65,14 +72,14 @@ label {
     background: #242424;
 }
 
-.login {
+.enter-login {
     position: relative;
     float: right;
     max-width: 150px;
     font-size: 0;
 }
 
-.login a {
+.enter-login a {
     display: inline-block;
     padding: 25px 0;
     padding-right: 20px;
@@ -83,22 +90,20 @@ label {
     color: white;
 }
 
-.login a:hover {
+.enter-login a:hover {
     background: #242424;
 }
 
-.login a::before {
+.enter-login a::before {
     content: "";
     position: absolute;
     top: 28px;
     left: 20px;
     width: 18px;
     height: 18px;
-    background: url("../image/tint_2832.png") no-repeat;
-    background-position: 0 -212px;
 }
 
-.login a:hover::before {
+.enter-login a:hover::before {
     opacity: .3;
 }
 
@@ -226,14 +231,13 @@ label {
 }
 
 .content-gallery-img {
-    width: 286px;
+    margin-left: 0;
     height: 164px;
     border: 7px solid white;
     background: #ccc;
 }
 
 .content-gallery-img img {
-    width: 286px;
     height: 164px;
 }
 
@@ -346,14 +350,29 @@ footer {
 
 .footer-social .footer-social-vk {
     background-position: 9px -826px;
+    color: white;
+    font-size: 25px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .footer-social .footer-social-fb {
     background-position: 14px -549px;
+    color: white;
+    font-size: 25px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .footer-social .footer-social-inst {
     background-position: 12px -690px;
+    color: white;
+    font-size: 25px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .footer-social-vk:hover {
@@ -376,7 +395,7 @@ footer {
     color: black;
 }
 
-/* СКРЫТЫЕ БЛОК. ФОРМА ВХОДА */
+/* СКРЫТЫЙ БЛОК, ФОРМА ВХОДА */
 
 .login {
     position: absolute;
