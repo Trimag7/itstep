@@ -1,0 +1,39 @@
+.nav {
+    height: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    border: solid 1px black;
+    flex-direction: column;
+    color: white;
+}
+
+/*.menu {
+    list-style-image: url();
+]*/
+
+.nav h2 {
+    height: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
+    border: solid 1px black;
+    color: white;
+}
+
+.header {
+    margin: 0 auto;
+    width: 940px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #445162;
+    border: solid 1px black;
+}
+
+.3
+d {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
