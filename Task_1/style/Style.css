@@ -149,13 +149,13 @@ th{
     background: rgb(195, 80, 134); }
 .knopka:active {
     background: rgb(152,15,0); }
-}
 .catalog{
     padding: 20px;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     display: flex;
+    justify-content: space-around;
 
 }
 .doma{

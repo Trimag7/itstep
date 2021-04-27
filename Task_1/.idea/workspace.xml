@@ -24,8 +24,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Catalog.html" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/style/Style.css" />
       </list>
     </option>
@@ -204,16 +204,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style/Style.css">
+    <entry file="file://$PROJECT_DIR$/Catalog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="57" column="24" lean-forward="true" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Catalog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+    <entry file="file://$PROJECT_DIR$/style/Style.css">
+      <provider selected="true" editor-type-id="text-editor">        <state relative-caret-position="170">
           <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
